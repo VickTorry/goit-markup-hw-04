@@ -63,7 +63,11 @@ img {
   color: #404bbf;
 }
 
-.nav-link:active::after {
+.nav-link.studio {
+  color: #404bbf;
+}
+
+.nav-link.studio::after {
   content: '';
   display: block;
   border-radius: 2px;
