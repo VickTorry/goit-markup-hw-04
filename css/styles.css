@@ -49,6 +49,7 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
   position: relative;
+  color: #404bbf;
 }
 
 .nav-link:hover,
@@ -198,9 +199,6 @@ img {
 /* #endregion */
 
 /* advantages #region */
-
-.advantages-list .text::before {
-}
 
 .antenna-icon-container {
   border: 1px solid #8e8f99;
