@@ -155,7 +155,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images2/herobackground.jpg);
+    url(../images/herobackground.jpg);
   background-size: cover;
   margin: 0 auto;
   background-repeat: no-repeat;
@@ -466,7 +466,7 @@ img {
   margin-right: 120px;
 }
 
-.team-social-list {
+.team-social-list.footer {
   display: flex;
   gap: 16px;
 }
